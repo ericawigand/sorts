@@ -1,4 +1,4 @@
-public class SelectionSort
+public class SelectionSort : ISort
 {
     public int[] Sort(int[] arr)
     {  
